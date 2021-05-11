@@ -1,7 +1,1 @@
-Обновление от 11/05/2021
-Русский:
 • Сервис питания можно выключить в настройках или быстрым ярлыком приложения. Если столкнулись с лагами фоновых приложений, оптимальным будет на время выключить сервис, а затем (например при жёсткой нагрузке в фоне или в играх) включить снова.
-----
-Update from 11/05/2021
-English:
-• Power service can be turned off in the settings or through app-shortcut. If you have noticed lags of important foreground applications, it will be optimal to turn off the service for a while, and then (for example, when a tough background load appears, or in games), turn on again.
