@@ -1,0 +1,7 @@
+Обновление от 11/05/2021
+Русский:
+• Сервис питания: Простые исключения в файле /sdcard/DfT/power_service_exclusions.list. Разделяются переносами строки (\n). Позже будет разработан интерфейс...
+----
+Update from 11/05/2021
+English:
+• Power service: Simple exclusions in the /sdcard/DfT/power_service_exclusions.list file. Processes are divided by carriage return sign (\n). I will develop a UI for exclusions later when I have time...
