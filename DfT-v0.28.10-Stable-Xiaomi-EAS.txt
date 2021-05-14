@@ -1,0 +1,13 @@
+Обновление от 14/05/21
+Русский:
+• Сервис питания: при добавлении исключения через таск менеджер работающий сервис обработает изменения мгновенно
+	• Исправлены две критические проблемы с разбором данных о процессах
+	• Экран настроек теперь отображает текущие исключения. Долгий клик позволяет удалять элементы в реальном времени. Есть баг с удалением последнего оставшегося элемента. Чтобы сбросить список, долгий клик на пустой иконке со знаком вопроса
+	• Исправлены цвета, теперь они соответствуют глобальной настройке
+----
+Update from 14/05/21
+English:
+• Power service: When adding an exclusion through task manager, the service will get the changes instantly
+	• Fixed two critical problems with the analysis of processes data
+	• The settings screen now displays current exclusions. Long click allows you to remove items in real-time. There is a bug with the removal of the last left element. To reset the list, long click on a blank icon with a question mark
+	• Fixed colors, now they match the global setup
