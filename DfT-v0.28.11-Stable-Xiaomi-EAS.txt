@@ -1,0 +1,17 @@
+Обновление от 15/05/21
+Русский:
+• Экран состояния: Стиль переделан, чтобы соответствовать MIUI 12 (позже планируется изменение всего приложения в таком стиле)
+• Шрифт глобально изменён на Google Sans
+• Сервис питания: Добавлена настройка таймаута
+	• При перезапуске сервиса в случае уничтожения системой больше не должно быть постоянных (каждые 90-120 секунд) перезапусков, так как сервис будет каждый раз закрыт и запущен заново (более корректное поведение)
+• Поменял "флагманские" параметры LMK на Android по умолчанию. Кому надо, тот сам выставит на многозадачность, но остальные не должны страдать по этому поводу...
+• Список изменений при установке отображается только на языке пользователя
+----
+Update from 15/05/21
+English:
+• Status Screen: Style is redone to look like MIUI 12 (it is planned to change the entire application in such a style, later)
+• Font is globally changed to Google Sans
+• Power service: Added timeout setting
+• When a service is restarted in case of destruction by the system, there must no longer be visible service restart loops every 90-120 seconds, since the service will be closed each time and started from scratch (more correct behavior)
+• Changed the "flagship" LMK parameters to those like Android' defaults. To whom it is necessary, he himself will setup for multitasking, but the rest should not suffer about this anymore...
+• Installer changelogs are shown in the user's language only
