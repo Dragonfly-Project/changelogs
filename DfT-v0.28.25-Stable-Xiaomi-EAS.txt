@@ -1,0 +1,16 @@
+Обновление от 11/07/21 20:26:16
+Русский:
+• Приложению принудительно запрещено работать во время сна устройства. Посмотрим, к чему это приведёт (тестируем)...
+• При закрытии любого приложения/процесса его память теперь всегда будет возвращаться системе. Это должно улучшить работу на смартфонах с малым количеством ОЗУ
+• Изменение некоторых параметров планировщика процессов теперь доступно для всех устройств
+• При смене профиля больше не будет более долгого запуска
+• Сервис питания: при более экстремальных профилях частота сервиса повышается вдвое от указанной в настройках
+----
+Update from 11/07/21 20:26:16
+English:
+NOTE: The changelog translation is done by Google Translate via translation apps. If you see any mistake in the text below, that means I have no time for this now. I have a lot of important tasks to do even besides DfT. So if this line is visible, then I didn't corrected the text for this time. Please understand me...
+• The application is forcibly forbidden to work while sleeping device. Let's see what it will lead to (test) ...
+• When closing any application / process, its memory will now always return the system. It should improve work on smartphones with a small amount of RAM
+• Changing some process scheduler parameters is now available for all devices.
+• when changing the profile will no longer be launch
+• Power service: With more extreme profiles, the service frequency is halved from the specified in the settings.
